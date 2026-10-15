@@ -1,0 +1,35 @@
+{
+  "name": "sfmc-journey-change-log",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline Journey Change Log report for Salesforce Marketing Cloud: drop a Journey Builder Audit Log export, get launch history and pre-launch test coverage. No network, no install.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valentinatihova/sfmc-journey-change-log.git"
+  },
+  "keywords": [
+    "salesforce-marketing-cloud",
+    "sfmc",
+    "journey-builder",
+    "audit-log",
+    "marketing-operations"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "node --test 'src/*.test.ts'",
+    "samples": "node src/gen-sample.ts --all --dir samples",
+    "typecheck": "tsc -p src",
+    "build": "node src/build.ts",
+    "e2e": "playwright test",
+    "check": "npm run typecheck && npm test && npm run build && npm run e2e"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}

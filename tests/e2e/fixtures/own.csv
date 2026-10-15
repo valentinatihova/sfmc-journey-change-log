@@ -1,0 +1,241 @@
+Journey Name, Version, Journey ID, User Name, User ID, Action, Time
+Welcome series, 2, 74c45623-4ff1-498a-891e-c4cf1bd65cfd, Jordan Price, 700000103, Publish, 10/02/2026 03:50:29 PM
+Welcome series, 1, ff37963c-c609-434e-89e0-bab05c7e2503, Jordan Price, 700000103, Unpublish, 10/02/2026 03:50:25 PM
+Welcome series, 2, 74c45623-4ff1-498a-891e-c4cf1bd65cfd, Jordan Price, 700000103, Publish, 10/02/2026 03:50:20 PM
+SIMULATION915 journeyId 74c45623-4ff1-498a-891e-c4cf1bd65cfd, 1, 610fdde5-a9c3-41ff-8c2f-77a4f3016b5b, Jordan Price, 700000103, Stop, 10/02/2026 03:50:00 PM
+Promo_Autumn_1026, 3, d0871983-b9d2-4fb4-88bc-fd09670e26bf, Sam Lee, 700000102, Publish, 10/02/2026 03:46:44 PM
+Promo_Autumn_1026, 2, dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, Sam Lee, 700000102, Unpublish, 10/02/2026 03:46:40 PM
+Promo_Autumn_1026, 3, d0871983-b9d2-4fb4-88bc-fd09670e26bf, Sam Lee, 700000102, Publish, 10/02/2026 03:46:35 PM
+SIMULATION918 journeyId d0871983-b9d2-4fb4-88bc-fd09670e26bf, 1, 4de0cc7f-d02d-4e15-8a9a-c2662f6818a1, Sam Lee, 700000102, Stop, 10/02/2026 03:46:15 PM
+SIMULATION915 journeyId 74c45623-4ff1-498a-891e-c4cf1bd65cfd, 1, 610fdde5-a9c3-41ff-8c2f-77a4f3016b5b, Jordan Price, 700000103, Publish, 10/02/2026 03:45:02 PM
+SIMULATION915 journeyId 74c45623-4ff1-498a-891e-c4cf1bd65cfd, 1, 610fdde5-a9c3-41ff-8c2f-77a4f3016b5b, Jordan Price, 700000103, Create, 10/02/2026 03:45:00 PM
+Welcome series, 2, 74c45623-4ff1-498a-891e-c4cf1bd65cfd, Jordan Price, 700000103, Create, 10/02/2026 03:44:00 PM
+SIMULATION918 journeyId d0871983-b9d2-4fb4-88bc-fd09670e26bf, 1, 4de0cc7f-d02d-4e15-8a9a-c2662f6818a1, Sam Lee, 700000102, Publish, 10/02/2026 03:41:17 PM
+SIMULATION918 journeyId d0871983-b9d2-4fb4-88bc-fd09670e26bf, 1, 4de0cc7f-d02d-4e15-8a9a-c2662f6818a1, Sam Lee, 700000102, Create, 10/02/2026 03:41:15 PM
+Promo_Autumn_1026, 3, d0871983-b9d2-4fb4-88bc-fd09670e26bf, Sam Lee, 700000102, Modify, 10/02/2026 03:40:15 PM
+Promo_Autumn_1026, 3, d0871983-b9d2-4fb4-88bc-fd09670e26bf, Sam Lee, 700000102, Create, 10/02/2026 03:40:00 PM
+daily_offer_cards, 15, a96d0dd7-53a1-44a1-89e0-e390e949586f, Alex Morgan, 700000101, Publish, 10/02/2026 03:05:09 PM
+daily_offer_cards, 14, bd6c5808-0876-4272-8810-c8cdabd6e550, Alex Morgan, 700000101, Unpublish, 10/02/2026 03:05:05 PM
+daily_offer_cards, 15, a96d0dd7-53a1-44a1-89e0-e390e949586f, Alex Morgan, 700000101, Publish, 10/02/2026 03:05:00 PM
+SIMULATION913 journeyId a96d0dd7-53a1-44a1-89e0-e390e949586f, 1, 829369d5-1230-4eba-8d19-d275caf02dd9, Alex Morgan, 700000101, Stop, 10/02/2026 03:04:00 PM
+SIMULATION913 journeyId a96d0dd7-53a1-44a1-89e0-e390e949586f, 1, 829369d5-1230-4eba-8d19-d275caf02dd9, Alex Morgan, 700000101, Publish, 10/02/2026 02:59:02 PM
+SIMULATION913 journeyId a96d0dd7-53a1-44a1-89e0-e390e949586f, 1, 829369d5-1230-4eba-8d19-d275caf02dd9, Alex Morgan, 700000101, Create, 10/02/2026 02:59:00 PM
+daily_offer_cards, 15, a96d0dd7-53a1-44a1-89e0-e390e949586f, Alex Morgan, 700000101, Modify, 10/02/2026 02:58:00 PM
+daily_offer_cards, 15, a96d0dd7-53a1-44a1-89e0-e390e949586f, Alex Morgan, 700000101, Create, 10/02/2026 02:47:00 PM
+Loan reminder, 4, b72ed4b7-8bc1-4bfd-82fb-e45f5afda13f, Alex Morgan, 700000101, Publish, 10/02/2026 10:23:09 AM
+Loan reminder, 3, 84142b27-d32f-4ef5-8272-4a73458c70c1, Alex Morgan, 700000101, Unpublish, 10/02/2026 10:23:05 AM
+Loan reminder, 4, b72ed4b7-8bc1-4bfd-82fb-e45f5afda13f, Alex Morgan, 700000101, Publish, 10/02/2026 10:23:00 AM
+Loan reminder, 4, b72ed4b7-8bc1-4bfd-82fb-e45f5afda13f, Alex Morgan, 700000101, Modify, 10/02/2026 10:22:00 AM
+Loan reminder, 4, b72ed4b7-8bc1-4bfd-82fb-e45f5afda13f, Alex Morgan, 700000101, Create, 10/02/2026 10:00:00 AM
+Abandoned cart, 8, a994ef3d-fd23-425b-8e0d-7006906647b3, Sam Lee, 700000102, Publish, 10/02/2026 09:40:09 AM
+Abandoned cart, 7, 98d2e77e-ad2f-41c6-8398-b1e6ccb9e27d, Sam Lee, 700000102, Unpublish, 10/02/2026 09:40:05 AM
+Abandoned cart, 8, a994ef3d-fd23-425b-8e0d-7006906647b3, Sam Lee, 700000102, Publish, 10/02/2026 09:40:00 AM
+Abandoned cart, 8, a994ef3d-fd23-425b-8e0d-7006906647b3, Sam Lee, 700000102, Modify, 10/02/2026 09:39:00 AM
+Abandoned cart, 8, a994ef3d-fd23-425b-8e0d-7006906647b3, Sam Lee, 700000102, Modify, 10/02/2026 09:30:00 AM
+Abandoned cart, 8, a994ef3d-fd23-425b-8e0d-7006906647b3, Sam Lee, 700000102, Modify, 10/02/2026 09:16:00 AM
+Abandoned cart, 8, a994ef3d-fd23-425b-8e0d-7006906647b3, Sam Lee, 700000102, Create, 10/02/2026 08:48:00 AM
+daily_offer_cards, 14, bd6c5808-0876-4272-8810-c8cdabd6e550, Alex Morgan, 700000101, Publish, 10/01/2026 08:10:44 AM
+daily_offer_cards, 13, f0325530-28f2-48a2-8eab-fb267426caad, Alex Morgan, 700000101, Unpublish, 10/01/2026 08:10:40 AM
+daily_offer_cards, 14, bd6c5808-0876-4272-8810-c8cdabd6e550, Alex Morgan, 700000101, Publish, 10/01/2026 08:10:35 AM
+SIMULATION912 journeyId bd6c5808-0876-4272-8810-c8cdabd6e550, 1, 300bfedf-b891-4578-889a-8b5d00af3030, Alex Morgan, 700000101, Stop, 10/01/2026 08:10:15 AM
+SIMULATION912 journeyId bd6c5808-0876-4272-8810-c8cdabd6e550, 1, 300bfedf-b891-4578-889a-8b5d00af3030, Alex Morgan, 700000101, Publish, 10/01/2026 08:05:17 AM
+SIMULATION912 journeyId bd6c5808-0876-4272-8810-c8cdabd6e550, 1, 300bfedf-b891-4578-889a-8b5d00af3030, Alex Morgan, 700000101, Create, 10/01/2026 08:05:15 AM
+daily_offer_cards, 14, bd6c5808-0876-4272-8810-c8cdabd6e550, Alex Morgan, 700000101, Modify, 10/01/2026 08:04:15 AM
+daily_offer_cards, 14, bd6c5808-0876-4272-8810-c8cdabd6e550, Alex Morgan, 700000101, Create, 10/01/2026 08:04:00 AM
+daily_offer_cards, 13, f0325530-28f2-48a2-8eab-fb267426caad, Alex Morgan, 700000101, Publish, 09/30/2026 02:26:29 PM
+daily_offer_cards, 12, bb904c80-8e0f-4a8d-8ee0-c5b161455606, Alex Morgan, 700000101, Unpublish, 09/30/2026 02:26:25 PM
+daily_offer_cards, 13, f0325530-28f2-48a2-8eab-fb267426caad, Alex Morgan, 700000101, Publish, 09/30/2026 02:26:20 PM
+daily_offer_cards, 13, f0325530-28f2-48a2-8eab-fb267426caad, Alex Morgan, 700000101, Create, 09/30/2026 02:26:00 PM
+Abandoned cart, 7, 98d2e77e-ad2f-41c6-8398-b1e6ccb9e27d, Sam Lee, 700000102, Publish, 09/30/2026 01:13:44 PM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Unpublish, 09/30/2026 01:13:40 PM
+Abandoned cart, 7, 98d2e77e-ad2f-41c6-8398-b1e6ccb9e27d, Sam Lee, 700000102, Publish, 09/30/2026 01:13:35 PM
+Abandoned cart, 7, 98d2e77e-ad2f-41c6-8398-b1e6ccb9e27d, Sam Lee, 700000102, Modify, 09/30/2026 01:13:15 PM
+Abandoned cart, 7, 98d2e77e-ad2f-41c6-8398-b1e6ccb9e27d, Sam Lee, 700000102, Create, 09/30/2026 01:13:00 PM
+daily_offer_cards, 12, bb904c80-8e0f-4a8d-8ee0-c5b161455606, Alex Morgan, 700000101, Publish, 09/29/2026 12:03:09 PM
+daily_offer_cards, 11, 5f827808-d631-4a62-8d0e-beaad4a70110, Alex Morgan, 700000101, Unpublish, 09/29/2026 12:03:05 PM
+daily_offer_cards, 12, bb904c80-8e0f-4a8d-8ee0-c5b161455606, Alex Morgan, 700000101, Publish, 09/29/2026 12:03:00 PM
+SIMULATION911 journeyId bb904c80-8e0f-4a8d-8ee0-c5b161455606, 1, a21604a2-fe82-46b4-8646-3039a0f11baa, Alex Morgan, 700000101, Stop, 09/29/2026 12:02:00 PM
+SIMULATION911 journeyId bb904c80-8e0f-4a8d-8ee0-c5b161455606, 1, a21604a2-fe82-46b4-8646-3039a0f11baa, Alex Morgan, 700000101, Publish, 09/29/2026 11:57:02 AM
+SIMULATION911 journeyId bb904c80-8e0f-4a8d-8ee0-c5b161455606, 1, a21604a2-fe82-46b4-8646-3039a0f11baa, Alex Morgan, 700000101, Create, 09/29/2026 11:57:00 AM
+daily_offer_cards, 12, bb904c80-8e0f-4a8d-8ee0-c5b161455606, Alex Morgan, 700000101, Modify, 09/29/2026 11:56:00 AM
+daily_offer_cards, 12, bb904c80-8e0f-4a8d-8ee0-c5b161455606, Alex Morgan, 700000101, Create, 09/29/2026 11:40:00 AM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Publish, 09/28/2026 12:42:09 PM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Sam Lee, 700000102, Unpublish, 09/28/2026 12:42:05 PM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Publish, 09/28/2026 12:42:00 PM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Modify, 09/28/2026 12:41:00 PM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Modify, 09/28/2026 12:30:00 PM
+Loan reminder, 3, 84142b27-d32f-4ef5-8272-4a73458c70c1, Alex Morgan, 700000101, Publish, 09/28/2026 12:13:44 PM
+Loan reminder, 2, 6d36b81d-4453-49ac-8c01-23ec2effdaaa, Alex Morgan, 700000101, Unpublish, 09/28/2026 12:13:40 PM
+Loan reminder, 3, 84142b27-d32f-4ef5-8272-4a73458c70c1, Alex Morgan, 700000101, Publish, 09/28/2026 12:13:35 PM
+Loan reminder, 3, 84142b27-d32f-4ef5-8272-4a73458c70c1, Alex Morgan, 700000101, Modify, 09/28/2026 12:13:15 PM
+Loan reminder, 3, 84142b27-d32f-4ef5-8272-4a73458c70c1, Alex Morgan, 700000101, Create, 09/28/2026 12:13:00 PM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Modify, 09/28/2026 12:12:00 PM
+daily_offer_cards, 11, 5f827808-d631-4a62-8d0e-beaad4a70110, Alex Morgan, 700000101, Publish, 09/28/2026 12:11:29 PM
+daily_offer_cards, 10, 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, Alex Morgan, 700000101, Unpublish, 09/28/2026 12:11:25 PM
+daily_offer_cards, 11, 5f827808-d631-4a62-8d0e-beaad4a70110, Alex Morgan, 700000101, Publish, 09/28/2026 12:11:20 PM
+SIMULATION910 journeyId 5f827808-d631-4a62-8d0e-beaad4a70110, 1, 33bcad24-8696-48ed-865f-be3feb9ae277, Alex Morgan, 700000101, Stop, 09/28/2026 12:11:00 PM
+Abandoned cart, 6, da956cf9-9c39-46ea-8e3c-d1bda028902d, Sam Lee, 700000102, Create, 09/28/2026 12:07:00 PM
+SIMULATION910 journeyId 5f827808-d631-4a62-8d0e-beaad4a70110, 1, 33bcad24-8696-48ed-865f-be3feb9ae277, Alex Morgan, 700000101, Publish, 09/28/2026 12:06:02 PM
+SIMULATION910 journeyId 5f827808-d631-4a62-8d0e-beaad4a70110, 1, 33bcad24-8696-48ed-865f-be3feb9ae277, Alex Morgan, 700000101, Create, 09/28/2026 12:06:00 PM
+daily_offer_cards, 11, 5f827808-d631-4a62-8d0e-beaad4a70110, Alex Morgan, 700000101, Create, 09/28/2026 12:05:00 PM
+daily_offer_cards, 10, 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, Alex Morgan, 700000101, Publish, 09/25/2026 09:39:09 AM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Unpublish, 09/25/2026 09:39:05 AM
+daily_offer_cards, 10, 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, Alex Morgan, 700000101, Publish, 09/25/2026 09:39:00 AM
+SIMULATION909 journeyId 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, 1, c019b146-caa2-4ef9-8b2e-25b67f78a122, Alex Morgan, 700000101, Stop, 09/25/2026 09:38:00 AM
+SIMULATION909 journeyId 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, 1, c019b146-caa2-4ef9-8b2e-25b67f78a122, Alex Morgan, 700000101, Publish, 09/25/2026 09:33:02 AM
+SIMULATION909 journeyId 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, 1, c019b146-caa2-4ef9-8b2e-25b67f78a122, Alex Morgan, 700000101, Create, 09/25/2026 09:33:00 AM
+daily_offer_cards, 10, 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, Alex Morgan, 700000101, Modify, 09/25/2026 09:32:00 AM
+daily_offer_cards, 10, 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, Alex Morgan, 700000101, Modify, 09/25/2026 09:07:00 AM
+daily_offer_cards, 10, 9ef7dfa6-a040-4d13-8a34-2c49c0decf12, Alex Morgan, 700000101, Create, 09/25/2026 08:49:00 AM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Publish, 09/24/2026 02:45:09 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Unpublish, 09/24/2026 02:45:05 PM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Publish, 09/24/2026 02:45:00 PM
+SIMULATION908 journeyId 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, 1, 70daf4bf-9933-4760-89cd-149654156a88, Alex Morgan, 700000101, Stop, 09/24/2026 02:44:00 PM
+SIMULATION908 journeyId 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, 1, 70daf4bf-9933-4760-89cd-149654156a88, Alex Morgan, 700000101, Publish, 09/24/2026 02:39:02 PM
+SIMULATION908 journeyId 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, 1, 70daf4bf-9933-4760-89cd-149654156a88, Alex Morgan, 700000101, Create, 09/24/2026 02:39:00 PM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Modify, 09/24/2026 02:38:00 PM
+Loan reminder, 2, 6d36b81d-4453-49ac-8c01-23ec2effdaaa, Alex Morgan, 700000101, Publish, 09/24/2026 02:36:09 PM
+Loan reminder, 1, c32d7203-36ab-4944-83a1-10992a6312c8, Alex Morgan, 700000101, Unpublish, 09/24/2026 02:36:05 PM
+Loan reminder, 2, 6d36b81d-4453-49ac-8c01-23ec2effdaaa, Alex Morgan, 700000101, Publish, 09/24/2026 02:36:00 PM
+Loan reminder, 2, 6d36b81d-4453-49ac-8c01-23ec2effdaaa, Alex Morgan, 700000101, Modify, 09/24/2026 02:35:00 PM
+Loan reminder, 2, 6d36b81d-4453-49ac-8c01-23ec2effdaaa, Alex Morgan, 700000101, Create, 09/24/2026 02:23:00 PM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Modify, 09/24/2026 02:18:00 PM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Modify, 09/24/2026 02:08:00 PM
+daily_offer_cards, 9, 9be9f4f0-14de-4b83-88c2-ca9f40b89ba0, Alex Morgan, 700000101, Create, 09/24/2026 01:49:00 PM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Alex Morgan, 700000101, Publish, 09/24/2026 12:08:09 PM
+Abandoned cart, 4, d58c7fa7-7550-4756-8c8e-23c496a85167, Alex Morgan, 700000101, Unpublish, 09/24/2026 12:08:05 PM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Alex Morgan, 700000101, Publish, 09/24/2026 12:08:00 PM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Alex Morgan, 700000101, Modify, 09/24/2026 12:07:00 PM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Alex Morgan, 700000101, Modify, 09/24/2026 11:48:00 AM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Alex Morgan, 700000101, Modify, 09/24/2026 11:24:00 AM
+Abandoned cart, 5, 87906e7b-7077-4f66-8316-c4f34e9ede64, Alex Morgan, 700000101, Create, 09/24/2026 11:10:00 AM
+Promo_Autumn_1026, 2, dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, Sam Lee, 700000102, Publish, 09/23/2026 03:42:09 PM
+Promo_Autumn_1026, 1, 8406dcd6-5d51-43aa-8c59-24d976f528fe, Sam Lee, 700000102, Unpublish, 09/23/2026 03:42:05 PM
+Promo_Autumn_1026, 2, dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, Sam Lee, 700000102, Publish, 09/23/2026 03:42:00 PM
+SIMULATION917 journeyId dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, 1, b3feed27-ad5e-48b8-84ab-7e817f3719e1, Sam Lee, 700000102, Stop, 09/23/2026 03:41:00 PM
+SIMULATION917 journeyId dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, 1, b3feed27-ad5e-48b8-84ab-7e817f3719e1, Sam Lee, 700000102, Publish, 09/23/2026 03:36:02 PM
+SIMULATION917 journeyId dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, 1, b3feed27-ad5e-48b8-84ab-7e817f3719e1, Sam Lee, 700000102, Create, 09/23/2026 03:36:00 PM
+Promo_Autumn_1026, 2, dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, Sam Lee, 700000102, Modify, 09/23/2026 03:35:00 PM
+Promo_Autumn_1026, 2, dbe7ade6-1da7-452d-86d2-9137cd8ea5bd, Sam Lee, 700000102, Create, 09/23/2026 03:29:00 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Publish, 09/23/2026 01:01:09 PM
+daily_offer_cards, 7, fb9c21ba-6867-4111-8553-a200dd0c56ec, Alex Morgan, 700000101, Unpublish, 09/23/2026 01:01:05 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Publish, 09/23/2026 01:01:00 PM
+SIMULATION907 journeyId d03309ca-ddd3-4876-88c8-673bc4498f95, 1, ada65622-0761-4a67-81d4-4136399cc7da, Alex Morgan, 700000101, Stop, 09/23/2026 01:00:00 PM
+SIMULATION907 journeyId d03309ca-ddd3-4876-88c8-673bc4498f95, 1, ada65622-0761-4a67-81d4-4136399cc7da, Alex Morgan, 700000101, Publish, 09/23/2026 12:55:02 PM
+SIMULATION907 journeyId d03309ca-ddd3-4876-88c8-673bc4498f95, 1, ada65622-0761-4a67-81d4-4136399cc7da, Alex Morgan, 700000101, Create, 09/23/2026 12:55:00 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Modify, 09/23/2026 12:54:00 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Modify, 09/23/2026 12:47:00 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Modify, 09/23/2026 12:37:00 PM
+daily_offer_cards, 8, d03309ca-ddd3-4876-88c8-673bc4498f95, Alex Morgan, 700000101, Create, 09/23/2026 12:28:00 PM
+Abandoned cart, 4, d58c7fa7-7550-4756-8c8e-23c496a85167, Alex Morgan, 700000101, Publish, 09/22/2026 02:33:09 PM
+Abandoned cart, 3, 8075b70f-ec89-48ad-85af-bbdbd186f2b5, Alex Morgan, 700000101, Unpublish, 09/22/2026 02:33:05 PM
+Abandoned cart, 4, d58c7fa7-7550-4756-8c8e-23c496a85167, Alex Morgan, 700000101, Publish, 09/22/2026 02:33:00 PM
+Abandoned cart, 4, d58c7fa7-7550-4756-8c8e-23c496a85167, Alex Morgan, 700000101, Modify, 09/22/2026 02:32:00 PM
+Abandoned cart, 4, d58c7fa7-7550-4756-8c8e-23c496a85167, Alex Morgan, 700000101, Create, 09/22/2026 02:05:00 PM
+daily_offer_cards, 7, fb9c21ba-6867-4111-8553-a200dd0c56ec, Alex Morgan, 700000101, Publish, 09/22/2026 08:55:44 AM
+daily_offer_cards, 6, 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, Alex Morgan, 700000101, Unpublish, 09/22/2026 08:55:40 AM
+daily_offer_cards, 7, fb9c21ba-6867-4111-8553-a200dd0c56ec, Alex Morgan, 700000101, Publish, 09/22/2026 08:55:35 AM
+SIMULATION906 journeyId fb9c21ba-6867-4111-8553-a200dd0c56ec, 1, 02cc3dd5-744e-4da7-8ddd-cfb4b5d2dad7, Alex Morgan, 700000101, Stop, 09/22/2026 08:55:15 AM
+SIMULATION906 journeyId fb9c21ba-6867-4111-8553-a200dd0c56ec, 1, 02cc3dd5-744e-4da7-8ddd-cfb4b5d2dad7, Alex Morgan, 700000101, Publish, 09/22/2026 08:50:17 AM
+SIMULATION906 journeyId fb9c21ba-6867-4111-8553-a200dd0c56ec, 1, 02cc3dd5-744e-4da7-8ddd-cfb4b5d2dad7, Alex Morgan, 700000101, Create, 09/22/2026 08:50:15 AM
+daily_offer_cards, 7, fb9c21ba-6867-4111-8553-a200dd0c56ec, Alex Morgan, 700000101, Modify, 09/22/2026 08:49:15 AM
+daily_offer_cards, 7, fb9c21ba-6867-4111-8553-a200dd0c56ec, Alex Morgan, 700000101, Create, 09/22/2026 08:49:00 AM
+daily_offer_cards, 6, 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, Alex Morgan, 700000101, Publish, 09/21/2026 02:14:09 PM
+daily_offer_cards, 5, bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, Alex Morgan, 700000101, Unpublish, 09/21/2026 02:14:05 PM
+daily_offer_cards, 6, 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, Alex Morgan, 700000101, Publish, 09/21/2026 02:14:00 PM
+SIMULATION905 journeyId 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, 1, 2ff014fd-f430-4782-8573-001a7cb8b69f, Alex Morgan, 700000101, Stop, 09/21/2026 02:13:00 PM
+SIMULATION905 journeyId 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, 1, 2ff014fd-f430-4782-8573-001a7cb8b69f, Alex Morgan, 700000101, Publish, 09/21/2026 02:08:02 PM
+SIMULATION905 journeyId 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, 1, 2ff014fd-f430-4782-8573-001a7cb8b69f, Alex Morgan, 700000101, Create, 09/21/2026 02:08:00 PM
+daily_offer_cards, 6, 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, Alex Morgan, 700000101, Modify, 09/21/2026 02:07:00 PM
+daily_offer_cards, 6, 9cbb9109-3943-49ad-83e0-b6cac1e8d6dc, Alex Morgan, 700000101, Create, 09/21/2026 01:45:00 PM
+daily_offer_cards, 5, bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, Alex Morgan, 700000101, Publish, 09/18/2026 01:27:29 PM
+daily_offer_cards, 4, c9be0211-109f-4323-8a37-f6ac6603cf2e, Alex Morgan, 700000101, Unpublish, 09/18/2026 01:27:25 PM
+daily_offer_cards, 5, bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, Alex Morgan, 700000101, Publish, 09/18/2026 01:27:20 PM
+SIMULATION904 journeyId bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, 1, 3ed5ae14-e026-40be-823f-b21a0c9c25bf, Alex Morgan, 700000101, Stop, 09/18/2026 01:27:00 PM
+SIMULATION904 journeyId bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, 1, 3ed5ae14-e026-40be-823f-b21a0c9c25bf, Alex Morgan, 700000101, Publish, 09/18/2026 01:22:02 PM
+SIMULATION904 journeyId bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, 1, 3ed5ae14-e026-40be-823f-b21a0c9c25bf, Alex Morgan, 700000101, Create, 09/18/2026 01:22:00 PM
+daily_offer_cards, 5, bedf77ff-515e-4bbf-8c33-c1ecab87d9d4, Alex Morgan, 700000101, Create, 09/18/2026 01:21:00 PM
+Abandoned cart, 3, 8075b70f-ec89-48ad-85af-bbdbd186f2b5, Sam Lee, 700000102, Publish, 09/18/2026 12:28:44 PM
+Abandoned cart, 2, b62037f9-a063-4f13-8a4f-23d6f40d65ea, Sam Lee, 700000102, Unpublish, 09/18/2026 12:28:40 PM
+Abandoned cart, 3, 8075b70f-ec89-48ad-85af-bbdbd186f2b5, Sam Lee, 700000102, Publish, 09/18/2026 12:28:35 PM
+SIMULATION914 journeyId 8075b70f-ec89-48ad-85af-bbdbd186f2b5, 1, 71029bd3-060e-4d8f-8fd3-b8f4d2f67038, Sam Lee, 700000102, Stop, 09/18/2026 12:28:15 PM
+SIMULATION914 journeyId 8075b70f-ec89-48ad-85af-bbdbd186f2b5, 1, 71029bd3-060e-4d8f-8fd3-b8f4d2f67038, Sam Lee, 700000102, Publish, 09/18/2026 12:23:17 PM
+SIMULATION914 journeyId 8075b70f-ec89-48ad-85af-bbdbd186f2b5, 1, 71029bd3-060e-4d8f-8fd3-b8f4d2f67038, Sam Lee, 700000102, Create, 09/18/2026 12:23:15 PM
+Abandoned cart, 3, 8075b70f-ec89-48ad-85af-bbdbd186f2b5, Sam Lee, 700000102, Modify, 09/18/2026 12:22:15 PM
+Abandoned cart, 3, 8075b70f-ec89-48ad-85af-bbdbd186f2b5, Sam Lee, 700000102, Create, 09/18/2026 12:22:00 PM
+daily_offer_cards, 4, c9be0211-109f-4323-8a37-f6ac6603cf2e, Alex Morgan, 700000101, Publish, 09/17/2026 12:12:44 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Unpublish, 09/17/2026 12:12:40 PM
+daily_offer_cards, 4, c9be0211-109f-4323-8a37-f6ac6603cf2e, Alex Morgan, 700000101, Publish, 09/17/2026 12:12:35 PM
+SIMULATION903 journeyId c9be0211-109f-4323-8a37-f6ac6603cf2e, 1, 14a87f16-5006-413e-8cc6-dfca956779ba, Alex Morgan, 700000101, Stop, 09/17/2026 12:12:15 PM
+SIMULATION903 journeyId c9be0211-109f-4323-8a37-f6ac6603cf2e, 1, 14a87f16-5006-413e-8cc6-dfca956779ba, Alex Morgan, 700000101, Publish, 09/17/2026 12:07:17 PM
+SIMULATION903 journeyId c9be0211-109f-4323-8a37-f6ac6603cf2e, 1, 14a87f16-5006-413e-8cc6-dfca956779ba, Alex Morgan, 700000101, Create, 09/17/2026 12:07:15 PM
+daily_offer_cards, 4, c9be0211-109f-4323-8a37-f6ac6603cf2e, Alex Morgan, 700000101, Modify, 09/17/2026 12:06:15 PM
+daily_offer_cards, 4, c9be0211-109f-4323-8a37-f6ac6603cf2e, Alex Morgan, 700000101, Create, 09/17/2026 12:06:00 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Publish, 09/16/2026 05:01:09 PM
+daily_offer_cards, 2, a88bf6b4-9556-4ce1-8d16-21f3a2792eee, Alex Morgan, 700000101, Unpublish, 09/16/2026 05:01:05 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Publish, 09/16/2026 05:01:00 PM
+SIMULATION902 journeyId 701e2be0-edff-4c63-8be6-36e859b5b634, 1, 8cf7272a-888c-45c0-8483-b43a61cdeeaf, Alex Morgan, 700000101, Stop, 09/16/2026 05:00:00 PM
+SIMULATION902 journeyId 701e2be0-edff-4c63-8be6-36e859b5b634, 1, 8cf7272a-888c-45c0-8483-b43a61cdeeaf, Alex Morgan, 700000101, Publish, 09/16/2026 04:55:02 PM
+SIMULATION902 journeyId 701e2be0-edff-4c63-8be6-36e859b5b634, 1, 8cf7272a-888c-45c0-8483-b43a61cdeeaf, Alex Morgan, 700000101, Create, 09/16/2026 04:55:00 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Modify, 09/16/2026 04:54:00 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Modify, 09/16/2026 04:46:00 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Modify, 09/16/2026 04:25:00 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Modify, 09/16/2026 04:16:00 PM
+daily_offer_cards, 3, 701e2be0-edff-4c63-8be6-36e859b5b634, Alex Morgan, 700000101, Create, 09/16/2026 03:49:00 PM
+Loan reminder, 1, c32d7203-36ab-4944-83a1-10992a6312c8, Alex Morgan, 700000101, Publish, 09/16/2026 03:48:09 PM
+Loan reminder, 1, c32d7203-36ab-4944-83a1-10992a6312c8, Alex Morgan, 700000101, Publish, 09/16/2026 03:48:00 PM
+Loan reminder, 1, c32d7203-36ab-4944-83a1-10992a6312c8, Alex Morgan, 700000101, Modify, 09/16/2026 03:47:00 PM
+Loan reminder, 1, c32d7203-36ab-4944-83a1-10992a6312c8, Alex Morgan, 700000101, Create, 09/16/2026 03:37:00 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Publish, 09/16/2026 01:55:09 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Publish, 09/16/2026 01:55:00 PM
+SIMULATION919 journeyId 9b1527ea-c7ce-466c-81f9-5dbd11540d30, 1, 7096787c-0214-4573-8c4c-45784dbc60dc, Riley Chen, 700000104, Stop, 09/16/2026 01:54:00 PM
+SIMULATION919 journeyId 9b1527ea-c7ce-466c-81f9-5dbd11540d30, 1, 7096787c-0214-4573-8c4c-45784dbc60dc, Riley Chen, 700000104, Publish, 09/16/2026 01:49:02 PM
+SIMULATION919 journeyId 9b1527ea-c7ce-466c-81f9-5dbd11540d30, 1, 7096787c-0214-4573-8c4c-45784dbc60dc, Riley Chen, 700000104, Create, 09/16/2026 01:49:00 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Modify, 09/16/2026 01:48:00 PM
+Abandoned cart, 2, b62037f9-a063-4f13-8a4f-23d6f40d65ea, Sam Lee, 700000102, Publish, 09/16/2026 01:33:44 PM
+Abandoned cart, 1, 7ba4116e-aded-4b5a-8cb8-ab92eb352d35, Sam Lee, 700000102, Unpublish, 09/16/2026 01:33:40 PM
+Abandoned cart, 2, b62037f9-a063-4f13-8a4f-23d6f40d65ea, Sam Lee, 700000102, Publish, 09/16/2026 01:33:35 PM
+Abandoned cart, 2, b62037f9-a063-4f13-8a4f-23d6f40d65ea, Sam Lee, 700000102, Modify, 09/16/2026 01:33:15 PM
+Abandoned cart, 2, b62037f9-a063-4f13-8a4f-23d6f40d65ea, Sam Lee, 700000102, Create, 09/16/2026 01:33:00 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Modify, 09/16/2026 01:22:00 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Modify, 09/16/2026 01:03:00 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Modify, 09/16/2026 12:53:00 PM
+Cashback_0926, 1, 9b1527ea-c7ce-466c-81f9-5dbd11540d30, Riley Chen, 700000104, Create, 09/16/2026 12:32:00 PM
+daily_offer_cards, 2, a88bf6b4-9556-4ce1-8d16-21f3a2792eee, Alex Morgan, 700000101, Publish, 09/15/2026 04:08:09 PM
+daily_offer_cards, 1, 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, Alex Morgan, 700000101, Unpublish, 09/15/2026 04:08:05 PM
+daily_offer_cards, 2, a88bf6b4-9556-4ce1-8d16-21f3a2792eee, Alex Morgan, 700000101, Publish, 09/15/2026 04:08:00 PM
+SIMULATION901 journeyId a88bf6b4-9556-4ce1-8d16-21f3a2792eee, 1, 093b7b3e-35e1-470e-8ae0-e3f9a43390cb, Alex Morgan, 700000101, Stop, 09/15/2026 04:07:00 PM
+SIMULATION901 journeyId a88bf6b4-9556-4ce1-8d16-21f3a2792eee, 1, 093b7b3e-35e1-470e-8ae0-e3f9a43390cb, Alex Morgan, 700000101, Publish, 09/15/2026 04:02:02 PM
+SIMULATION901 journeyId a88bf6b4-9556-4ce1-8d16-21f3a2792eee, 1, 093b7b3e-35e1-470e-8ae0-e3f9a43390cb, Alex Morgan, 700000101, Create, 09/15/2026 04:02:00 PM
+daily_offer_cards, 2, a88bf6b4-9556-4ce1-8d16-21f3a2792eee, Alex Morgan, 700000101, Modify, 09/15/2026 04:01:00 PM
+daily_offer_cards, 2, a88bf6b4-9556-4ce1-8d16-21f3a2792eee, Alex Morgan, 700000101, Modify, 09/15/2026 03:50:00 PM
+daily_offer_cards, 2, a88bf6b4-9556-4ce1-8d16-21f3a2792eee, Alex Morgan, 700000101, Create, 09/15/2026 03:45:00 PM
+"Birthday, VIP", 1, 62e783ce-74d8-4f8f-8e69-099abc49a04a, Taylor Brooks, 700000105, Publish, 09/15/2026 03:08:09 PM
+"Birthday, VIP", 1, 62e783ce-74d8-4f8f-8e69-099abc49a04a, Taylor Brooks, 700000105, Publish, 09/15/2026 03:08:00 PM
+SIMULATION920 journeyId 62e783ce-74d8-4f8f-8e69-099abc49a04a, 1, dc8a6bc4-cbeb-413e-823a-e206e4b4a2cc, Taylor Brooks, 700000105, Stop, 09/15/2026 03:07:00 PM
+SIMULATION920 journeyId 62e783ce-74d8-4f8f-8e69-099abc49a04a, 1, dc8a6bc4-cbeb-413e-823a-e206e4b4a2cc, Taylor Brooks, 700000105, Publish, 09/15/2026 03:02:02 PM
+SIMULATION920 journeyId 62e783ce-74d8-4f8f-8e69-099abc49a04a, 1, dc8a6bc4-cbeb-413e-823a-e206e4b4a2cc, Taylor Brooks, 700000105, Create, 09/15/2026 03:02:00 PM
+"Birthday, VIP", 1, 62e783ce-74d8-4f8f-8e69-099abc49a04a, Taylor Brooks, 700000105, Modify, 09/15/2026 03:01:00 PM
+"Birthday, VIP", 1, 62e783ce-74d8-4f8f-8e69-099abc49a04a, Taylor Brooks, 700000105, Modify, 09/15/2026 02:33:00 PM
+"Birthday, VIP", 1, 62e783ce-74d8-4f8f-8e69-099abc49a04a, Taylor Brooks, 700000105, Create, 09/15/2026 02:04:00 PM
+Abandoned cart, 1, 7ba4116e-aded-4b5a-8cb8-ab92eb352d35, Alex Morgan, 700000101, Publish, 09/14/2026 02:57:09 PM
+Abandoned cart, 1, 7ba4116e-aded-4b5a-8cb8-ab92eb352d35, Alex Morgan, 700000101, Publish, 09/14/2026 02:57:00 PM
+Abandoned cart, 1, 7ba4116e-aded-4b5a-8cb8-ab92eb352d35, Alex Morgan, 700000101, Modify, 09/14/2026 02:56:00 PM
+Abandoned cart, 1, 7ba4116e-aded-4b5a-8cb8-ab92eb352d35, Alex Morgan, 700000101, Create, 09/14/2026 02:35:00 PM
+daily_offer_cards, 1, 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, Alex Morgan, 700000101, Publish, 09/14/2026 02:22:29 PM
+daily_offer_cards, 1, 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, Alex Morgan, 700000101, Publish, 09/14/2026 02:22:20 PM
+SIMULATION900 journeyId 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, 1, 4e8be048-863e-4055-8ae8-264565893e7d, Alex Morgan, 700000101, Stop, 09/14/2026 02:22:00 PM
+SIMULATION900 journeyId 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, 1, 4e8be048-863e-4055-8ae8-264565893e7d, Alex Morgan, 700000101, Publish, 09/14/2026 02:17:02 PM
+SIMULATION900 journeyId 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, 1, 4e8be048-863e-4055-8ae8-264565893e7d, Alex Morgan, 700000101, Create, 09/14/2026 02:17:00 PM
+daily_offer_cards, 1, 43b85cc8-aad3-45bb-80a7-ec18eba9ee55, Alex Morgan, 700000101, Create, 09/14/2026 02:16:00 PM
+Welcome series, 1, ff37963c-c609-434e-89e0-bab05c7e2503, Jordan Price, 700000103, Publish, 09/14/2026 01:40:44 PM
+Welcome series, 1, ff37963c-c609-434e-89e0-bab05c7e2503, Jordan Price, 700000103, Publish, 09/14/2026 01:40:35 PM
+Welcome series, 1, ff37963c-c609-434e-89e0-bab05c7e2503, Jordan Price, 700000103, Modify, 09/14/2026 01:40:15 PM
+Welcome series, 1, ff37963c-c609-434e-89e0-bab05c7e2503, Jordan Price, 700000103, Create, 09/14/2026 01:40:00 PM
+Promo_Autumn_1026, 1, 8406dcd6-5d51-43aa-8c59-24d976f528fe, Sam Lee, 700000102, Publish, 09/14/2026 11:46:44 AM
+Promo_Autumn_1026, 1, 8406dcd6-5d51-43aa-8c59-24d976f528fe, Sam Lee, 700000102, Publish, 09/14/2026 11:46:35 AM
+SIMULATION916 journeyId 8406dcd6-5d51-43aa-8c59-24d976f528fe, 1, 63bf56ec-257d-49da-8a95-a23a2bacc384, Sam Lee, 700000102, Stop, 09/14/2026 11:46:15 AM
+SIMULATION916 journeyId 8406dcd6-5d51-43aa-8c59-24d976f528fe, 1, 63bf56ec-257d-49da-8a95-a23a2bacc384, Sam Lee, 700000102, Publish, 09/14/2026 11:41:17 AM
+SIMULATION916 journeyId 8406dcd6-5d51-43aa-8c59-24d976f528fe, 1, 63bf56ec-257d-49da-8a95-a23a2bacc384, Sam Lee, 700000102, Create, 09/14/2026 11:41:15 AM
+Promo_Autumn_1026, 1, 8406dcd6-5d51-43aa-8c59-24d976f528fe, Sam Lee, 700000102, Modify, 09/14/2026 11:40:15 AM
+Promo_Autumn_1026, 1, 8406dcd6-5d51-43aa-8c59-24d976f528fe, Sam Lee, 700000102, Create, 09/14/2026 11:40:00 AM

@@ -158,8 +158,8 @@ test('build: the same journey name in two BUs stays two journeys', () => {
 });
 
 test('build: anonymized by default — no input name appears anywhere in the dataset', () => {
-  const json = JSON.stringify(ok(build([{ name: 'a.csv', text: SCENARIO }])));
-  for (const secret of ['Anna', 'Boris', 'Promo_1026', 'Welcome', 'u1', 'u2', V1, V2, V3]) assert.ok(!json.includes(secret), secret);
+  const json = JSON.stringify(ok(build([{ name: 'acme-bank-audit.csv', text: SCENARIO }])));
+  for (const secret of ['Anna', 'Boris', 'Promo_1026', 'Welcome', 'u1', 'u2', V1, V2, V3, 'acme']) assert.ok(!json.includes(secret), secret);
   const named = ok(build([{ name: 'a.csv', text: SCENARIO }], { keepNames: true }));
   assert.equal(named.people[0].name, 'Anna');
   assert.equal(named.anonymized, false);

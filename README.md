@@ -39,7 +39,7 @@ The report is meant to be passed around inside regulated teams such as banks and
 
 - **Zero network requests.** The page uses a Content-Security-Policy of `default-src 'none'`. Every inline script and style is allowed only by its SHA-256 hash, and fonts are inlined. An E2E test opens every tab in both languages and fails on any request or CSP violation.
 - **Data never leaves the browser.** Files are parsed in memory; nothing is uploaded or stored.
-- **Anonymized by default** when a report with embedded data is built for sharing (`--csv`). People become "Specialist N" and journeys get generic names, and a unit test checks that no input name survives anywhere in the dataset.
+- **Anonymized by default** when a report with embedded data is built for sharing (`--csv`). People become "Specialist N", journeys get generic names and input files become `export-N.csv`; a unit test checks that no input name survives anywhere in the dataset. The `--bu` label is embedded as given.
 - **Verifiable build.** Every build writes the SHA-256 of the file next to it, and CI publishes the hash in the artifact name.
 - **Errors without leaking content.** Wrong or broken files produce named errors (`WRONG_FILE`, `AMBIGUOUS_DATE`, `MIXED_DATE_FORMATS`, …). Diagnostics report header shape only, never cell contents.
 

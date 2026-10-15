@@ -360,7 +360,8 @@ export function build(files: InputFile[], opts: BuildOptions = {}): BuildResult 
     quality: {
       rawRows, exactDuplicates: rawRows - events.length - countUnparsed(read, order), skippedRows: skipped,
       dateFormat: order === 'MDY' ? 'MM/DD' : 'DD/MM', simulationEvents: sims.length, quickCopyMinutes,
-      files: read.map(f => ({ name: f.file.name, bu: f.bu, rows: f.rows.length })),
+      // file names often carry the client or BU name, so they are anonymized too
+      files: read.map((f, i) => ({ name: opts.keepNames ? f.file.name : `export-${i + 1}.csv`, bu: f.bu, rows: f.rows.length })),
     },
   };
   base.totals.versions = journeys.reduce((a, j) => a + j.versions.length, 0);

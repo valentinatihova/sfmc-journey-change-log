@@ -51,7 +51,7 @@ Audit Log CSV(s) ─► parseCsv ─► header check ─► detect date order �
    ─► classify: tested | edited | relaunched without edits | unknown ─► metrics ─► Dataset
                                                                                   │
 template.html (render, RU/EN) + inlined core + Onest font + CSP hashes ◄──────────┘
-   = dist/journey-change-log.html (single file, ~80 KB)
+   = dist/journey-change-log.html (single file, ~190 KB with fonts)
 ```
 
 | Path | What |
